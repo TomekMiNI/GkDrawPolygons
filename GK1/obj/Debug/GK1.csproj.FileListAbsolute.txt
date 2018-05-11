@@ -1,0 +1,22 @@
+c:\users\euronet\documents\visual studio 2015\Projects\GK1\GK1\bin\Debug\GK1.exe.config
+c:\users\euronet\documents\visual studio 2015\Projects\GK1\GK1\bin\Debug\GK1.exe
+c:\users\euronet\documents\visual studio 2015\Projects\GK1\GK1\bin\Debug\GK1.pdb
+c:\users\euronet\documents\visual studio 2015\Projects\GK1\GK1\obj\Debug\GK1.csprojResolveAssemblyReference.cache
+c:\users\euronet\documents\visual studio 2015\Projects\GK1\GK1\obj\Debug\GK1.Form1.resources
+c:\users\euronet\documents\visual studio 2015\Projects\GK1\GK1\obj\Debug\GK1.Properties.Resources.resources
+c:\users\euronet\documents\visual studio 2015\Projects\GK1\GK1\obj\Debug\GK1.csproj.GenerateResource.Cache
+c:\users\euronet\documents\visual studio 2015\Projects\GK1\GK1\obj\Debug\GK1.exe
+c:\users\euronet\documents\visual studio 2015\Projects\GK1\GK1\obj\Debug\GK1.pdb
+C:\Users\Euronet\Desktop\markowiczt\markowiczt\GKPROJEKT1stary\GK1\GK1\bin\Debug\GK1.exe.config
+C:\Users\Euronet\Desktop\markowiczt\markowiczt\GKPROJEKT1stary\GK1\GK1\obj\Debug\GK1.exe
+C:\Users\Euronet\Desktop\markowiczt\markowiczt\GKPROJEKT1stary\GK1\GK1\obj\Debug\GK1.pdb
+C:\Users\Euronet\Desktop\Studia\5semestr\gk\markowiczt\markowiczt\GKPROJEKT1stary\GK1\GK1\bin\Debug\GK1.exe.config
+C:\Users\Euronet\Desktop\Studia\5semestr\gk\markowiczt\markowiczt\GKPROJEKT1stary\GK1\GK1\bin\Debug\GK1.exe
+C:\Users\Euronet\Desktop\Studia\5semestr\gk\markowiczt\markowiczt\GKPROJEKT1stary\GK1\GK1\bin\Debug\GK1.pdb
+C:\Users\Euronet\Desktop\Studia\5semestr\gk\markowiczt\markowiczt\GKPROJEKT1stary\GK1\GK1\obj\Debug\GK1.csprojResolveAssemblyReference.cache
+C:\Users\Euronet\Desktop\Studia\5semestr\gk\markowiczt\markowiczt\GKPROJEKT1stary\GK1\GK1\obj\Debug\GK1.Form1.resources
+C:\Users\Euronet\Desktop\Studia\5semestr\gk\markowiczt\markowiczt\GKPROJEKT1stary\GK1\GK1\obj\Debug\GK1.Properties.Resources.resources
+C:\Users\Euronet\Desktop\Studia\5semestr\gk\markowiczt\markowiczt\GKPROJEKT1stary\GK1\GK1\obj\Debug\GK1.csproj.GenerateResource.cache
+C:\Users\Euronet\Desktop\Studia\5semestr\gk\markowiczt\markowiczt\GKPROJEKT1stary\GK1\GK1\obj\Debug\GK1.csproj.CoreCompileInputs.cache
+C:\Users\Euronet\Desktop\Studia\5semestr\gk\markowiczt\markowiczt\GKPROJEKT1stary\GK1\GK1\obj\Debug\GK1.exe
+C:\Users\Euronet\Desktop\Studia\5semestr\gk\markowiczt\markowiczt\GKPROJEKT1stary\GK1\GK1\obj\Debug\GK1.pdb
