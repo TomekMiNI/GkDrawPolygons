@@ -50,12 +50,12 @@ namespace GK1
                 if(_isHorizontal[i])
                 {
                     Point middlePoint = new Point((int)(((double)el.First().X + (double)el.Last().X) / 2) + 3, (int)(((double)el.First().Y + (double)el.Last().Y) / 2) + 3);
-                    e.Graphics.DrawImage(GK1.Properties.Resources.verimg, middlePoint);
+                    e.Graphics.DrawImage(GK1.Properties.Resources.horimg, middlePoint);
                 }
                 else if(_isVertical[i])
                 {
                     Point middlePoint = new Point((int)(((double)el.First().X + (double)el.Last().X) / 2) + 3, (int)(((double)el.First().Y + (double)el.Last().Y) / 2) + 3);
-                    e.Graphics.DrawImage(GK1.Properties.Resources.horimg, middlePoint);
+                    e.Graphics.DrawImage(GK1.Properties.Resources.verimg, middlePoint);
                 }
                 else if(_hasAngle[i]!=-1)
                 {
@@ -126,15 +126,15 @@ namespace GK1
             int prev = (_selectedV + n - 1) % n;
             Point prevStart = _listOfSegments[prev].First();
 
-            if (_isHorizontal[prev] || _isVertical[prev] || _hasAngle[prev]!=-1)
+            if (_isVertical[prev] || _isHorizontal[prev] || _hasAngle[prev]!=-1)
             {
                 _segment.Clear();
                 //correct prev and segment prev-1
-                if (_isHorizontal[prev])
+                if (_isVertical[prev])
                 {
                     prevStart = new Point(target.X, getY((prev + n - 1) % n, target.X));
                 }
-                else if(_isVertical[prev])
+                else if(_isHorizontal[prev])
                 {
                     prevStart = new Point(getX((prev + n - 1) % n, target.Y), target.Y);
                 }
@@ -174,11 +174,11 @@ namespace GK1
             int next = (_selectedV + 1) % n;
             Point nextStart = _listOfSegments[next].First();
             bool correctNext = false;
-            if(_isHorizontal[_selectedV] || _isVertical[_selectedV])
+            if(_isVertical[_selectedV] || _isHorizontal[_selectedV])
             {
                 //correct nextStart
                 correctNext = true;
-                if(_isVertical[_selectedV])
+                if(_isHorizontal[_selectedV])
                 {
                     nextStart = new Point(getX(next, _yend), _yend);
                 }
